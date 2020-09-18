@@ -1,0 +1,15 @@
+[submodule "Todoey-iOS"]
+	path = Todoey-iOS
+	url = https://github.com/beskaska/Todoey-iOS.git
+[submodule "Calculator-Layout"]
+	path = Calculator-Layout
+	url = https://github.com/beskaska/Calculator-Layout.git
+[submodule "hacker_news"]
+	path = hacker_news
+	url = https://github.com/beskaska/hacker_news.git
+[submodule "Clima"]
+	path = Clima
+	url = https://github.com/beskaska/Clima.git
+[submodule "seeFood"]
+	path = seeFood
+	url = https://github.com/beskaska/seeFood.git
